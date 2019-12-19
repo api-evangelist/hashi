@@ -1,0 +1,77 @@
+{
+    "name": "Hashi",
+    "description": "HashiCorp enables organizations to use consistent workflows to provision, secure, connect, and run any infrastructure for any application.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19981-hashicorp.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "automation",
+        "have api",
+        "logging",
+        "microservices",
+        "orchestration"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hashi\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "HashiCorp",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19981-hashicorp.jpg",
+            "humanURL": "http:\/\/hashicorp.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hashicorp-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hashicorp-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/www.hashicorp.com\/blog.html"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "https:\/\/www.hashicorp.com\/feed.xml"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/hashicorp"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@hashicorp.com"
+        },
+        {
+            "type": "Email",
+            "url": "security@hashicorp.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/hashicorp"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hashicorp"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.hashicorp.com\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/hashicorp.com"
+        }
+    ]
+}
